@@ -51,7 +51,7 @@ tags:
 - Life Sciences
 - Research
 - R&D
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Ai
@@ -62,6 +62,7 @@ tags_raw:
 - Research
 - R&D
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
